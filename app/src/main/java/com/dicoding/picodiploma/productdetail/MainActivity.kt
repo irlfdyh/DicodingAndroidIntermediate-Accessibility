@@ -54,7 +54,11 @@ class MainActivity : AppCompatActivity() {
                 descTextView.text = desc
                 priceTextView.text = price
                 dateTextView.text = getString(R.string.dateFormat, date)
-                ratingTextView.text = getString(R.string.ratingFormat, rating, countRating)
+                ratingTextView.text = getString(
+                    R.string.ratingFormat,
+                    rating.withNumberFormat(),
+                    countRating.withNumberFormat()
+                )
             }
         }
     }
