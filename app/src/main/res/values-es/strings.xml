@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Detalle del producto</string>
+    <string name="app_name">Detalle del producto | Adaptive</string>
     <string name="description">Zapatillas de running geniales de edición limitada. Usar estos zapatos mejorará su comprensión al aprender el código.\n\nEl artículo siempre está en stock. Hay varios tamaños y colores disponibles. ¡Ordenar ahora!</string>
     <string name="buy">¡Compra ahora!</string>
     <string name="size">42</string>
